@@ -1,2 +1,99 @@
 # Ardent_ML_Internship
 Beginner friendly Python and machine learning projects covering data visualization ,regression,classifiaction using real-world examples
+# Python & Machine Learning Basics – Project 1
+
+This repository contains Project 1, focused on revising Python fundamentals and introducing core Machine Learning concepts using practical, beginner-friendly examples.  
+
+The project is implemented as a Jupyter Notebook and is designed for students and early learners who want to build a strong foundation before moving to advanced ML or full-stack development.
+
+---
+
+## 📂 Repository Contents
+
+- project_1_&_revisions_basics_things.ipynb
+
+  - Python basics (data types and string operations)
+
+  - Data visualization using Matplotlib
+
+  - Linear Regression (real-world example)
+
+  - Classification using the Iris dataset
+
+  - Model predictions and result visualization
+
+---
+
+## 🧠 Topics Covered
+
+### 1️⃣ Python Fundamentals
+
+- String concatenation
+
+- Handling different data types
+
+- Common beginner mistakes and best practices
+
+### 2️⃣ Data Visualization
+
+- Plotting data using Matplotlib
+
+- Understanding scatter plots and line plots
+
+- Visual interpretation of datasets
+
+### 3️⃣ Machine Learning – Regression
+
+- Linear Regression model
+
+- Real use case: Hours Studied → Marks Scored
+
+- Visualizing raw data vs predicted output
+
+- Making predictions on new inputs
+
+### 4️⃣ Machine Learning – Classification
+
+- Introduction to classification problems
+
+- Iris Flower Dataset
+
+- Visualizing feature relationships
+
+- Understanding how classification models work
+
+---
+
+## 🛠️ Technologies Used
+
+- Python
+
+- Jupyter Notebook
+
+- NumPy
+
+- Matplotlib
+
+- Scikit-learn
+
+---
+
+## 🎯 Purpose of This Project
+
+- Revise Python basics
+
+- Understand how ML models work visually
+
+- Learn regression and classification with real examples
+
+- Build confidence before advanced ML or MERN integration
+
+---
+
+## 🚀 How to Run the Project
+
+1. Clone the repository:
+
+   ```bash
+
+   git clone <repository-url>
