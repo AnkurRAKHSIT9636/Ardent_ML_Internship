@@ -96,4 +96,4 @@ The project is implemented as a Jupyter Notebook and is designed for students an
 
    ```bash
 
-   git clone <repository-url>
+   git clone https://github.com/AnkurRAKHSIT9636/Ardent_ML_Internship.git
