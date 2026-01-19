@@ -68,7 +68,7 @@ The project is implemented as a Jupyter Notebook and is designed for students an
 
 - Python
 
-- Jupyter Notebook
+- Google colaboratory
 
 - NumPy
 
