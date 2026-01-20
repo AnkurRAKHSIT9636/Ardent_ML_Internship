@@ -54,13 +54,13 @@ Pandas
 Matplotlib / Seaborn
 
 Scikit-learn
+
 📈 Results
 
 The trained model achieves high accuracy in classifying breast cancer cases.
 
 Evaluation metrics confirm the effectiveness of the chosen ML approach.
 
-(Exact results can be seen by running the notebook.)
 
 🔮 Future Improvements
 
