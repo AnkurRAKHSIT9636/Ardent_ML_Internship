@@ -19,7 +19,7 @@ Ardent_ML_Training/
 ├── Project 1 (Student Marks Prediction)/
 ├── Project 2 (Breast Cancer Classification)/
 ├── Project 3 (Customer Segmentation)/
-├── Project 4 (Car Mileage Prediction)/
+├── Project 4 ( Breast Cancer Detection Using Random Forest Classifier)/
 ├── Project 5 (Spam Detection - NLP)/
 ├── Project 6 (Credit Card Fraud Detection)/
 └── README.md
@@ -83,21 +83,22 @@ Ardent_ML_Training/
 
 ---
 
-### 📌 Project 4 – Car Mileage Prediction (Regression)
+### 📌 Project 4 –  Breast Cancer Detection Using Random Forest Classifier (Supervised Classification)
 
 **Goal:** Predict car mileage (MPG) based on engine specifications.
 
 **Tech Stack:**
-- Python, Pandas
-- Linear Regression
+- Python, Pandas,Numpy
+- Random Forest Classifier Algorithm
 - Seaborn/Matplotlib
+- Scikit-learn
 
 **Key Learning Outcomes:**
-- Multivariate dataset handling
-- Correlation heatmaps
-- Regression evaluation & tuning
-- Feature importance & interpretation
-- Real-life automotive data analysis
+- Handling Complex Data
+- Achieved high prediction accuracy
+- Low false-negative rate (critical in medical diagnosis)
+- Stable performance across test samples.
+- Robustness and Reduced Overfitting
 
 ---
 
@@ -181,7 +182,7 @@ pip (Python package manager)
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/yourusername/Ardent_ML_Training.git
+git clone https://github.com/AnkurRAKHSIT9636/Ardent_ML_Training.git
 cd Ardent_ML_Training
 ```
 
@@ -208,7 +209,7 @@ jupyter notebook
 | Student Marks Prediction | Linear Regression | R² Score: ~0.95 |
 | Breast Cancer Classification | Logistic Regression | Accuracy: ~96% |
 | Customer Segmentation | K-Means Clustering | 3-5 distinct clusters |
-| Car Mileage Prediction | Linear Regression | R² Score: ~0.85 |
+| Breast Cancer Detection  | Random Forest Classifier | Accuracy: ~90% - 99% |
 | Spam Detection | Naive Bayes | Accuracy: ~97% |
 | Credit Card Fraud Detection | Logistic Regression/RF | Precision: ~90%, Recall: ~85% |
 
